@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+witches.Rproj
+scripts/
+data/witch_grid.dbf
+data/witch_grid.prj
+data/witch_grid.shp
+data/witch_grid.shx
